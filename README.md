@@ -2,8 +2,7 @@
 
 Embedded
 
-<div>
+<object data="Diagram.svg" width="300" height="300"> </object>
 
-        <h2>Hello World</h2>
-        <object data="Diagram.svg" width="300" height="300"> </object>
-</div>
+
+Some more
