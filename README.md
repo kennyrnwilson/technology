@@ -8,8 +8,8 @@ Embedded
 
 
 <p align="center">
-  <img src="Diagram.svg" width="350" title="hover text">
-  <img src="Diagram.svg" width="350" alt="accessibility text">
+  <img src="Diagram.svg?raw=true" width="350" title="hover text">
+  <img src="Diagram.svg?raw=true" width="350" alt="accessibility text">
 </p>
 
 Some more
