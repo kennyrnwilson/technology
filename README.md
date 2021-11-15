@@ -2,7 +2,7 @@
 
 Embedded
 
-<object data="/Diagram.svg" width="300" height="300"> </object>
+![Alt text](Diagram.svg?raw=true "Title")
 
 
 Some more
