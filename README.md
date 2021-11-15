@@ -7,4 +7,9 @@ Embedded
 ![Alt text](Diagram.svg?raw=true)
 
 
+<p align="center">
+  <img src="Diagram.svg" width="350" title="hover text">
+  <img src="Diagram.svg" width="350" alt="accessibility text">
+</p>
+
 Some more
