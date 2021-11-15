@@ -4,7 +4,7 @@ The following high level diagram is a road map for all the information held in t
 
 Embedded
 
-![Alt text](Diagram.svg)
+![Alt text](Diagram.svg?raw=true)
 
 
 Some more
